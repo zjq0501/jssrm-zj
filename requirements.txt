@@ -1,7 +1,7 @@
 streamlit==1.32.0
 streamlit-aggrid==0.3.4.post3
 streamlit-dynamic-filters==0.1.5
-pandas==1.5.3
+pandas==3.0.7
 numpy==1.26.4
 joblib==1.3.2
 shap==0.45.0
